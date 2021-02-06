@@ -151,9 +151,9 @@ was performed to identify the unique top 10 movies.
 Fig 2: Flow chart of the process
 
 **Exploratory Data Analysis & Visualizations**
+----------------------------------
 
 **Ratings and Genre Distribution**
-----------------------------------
 
 To get better insights of the data we performed exploratory data
 analysis before building the model. We worked on finding answers to the
@@ -185,7 +185,6 @@ Figure 3 Movie Ratings Distribution
 **Description of the 5 categories of Ratings:**
 
   G -- General Audience                 All ages admitted.
-  ------------------------------------- ----------------------------------------------------------
   PG -- Parental Guidance Suggested     Some material may be inappropriate for children
   PG-13 -- Parents Strongly Cautioned   Some material may be inappropriate for children under 13
   R-Restricted                          Under 17 requires accompanying parent or adult guardian
