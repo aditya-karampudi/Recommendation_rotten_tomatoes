@@ -216,7 +216,7 @@ with the maximum number of movies is Tyler Perry who has directed 16
 movies in total followed by Steven Soderbergh with 15 movies.
 
 ![Chart, bar chart Description automatically
-generated](media/image4.png){width="6.192340332458443in"
+generated](media/image15.png){width="6.192340332458443in"
 height="3.6336636045494313in"}
 
 Figure 5: Top 20 movie directors
