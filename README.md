@@ -200,8 +200,10 @@ genres, with action and adventure movies being maximum, followed by
 drama, art, and comedy.
 
 ![Chart, pie chart Description automatically
-generated](media/image3.png){width="4.742574365704287in"
-height="2.99299321959755in"}
+generated](media/image3.png)
+
+![Chart, bar chart Description automatically
+generated](media/image15.png)
 
 Figure 4: Top 10 Movie Genres
 
@@ -215,9 +217,9 @@ number of movies directed by each director. We see that the director
 with the maximum number of movies is Tyler Perry who has directed 16
 movies in total followed by Steven Soderbergh with 15 movies.
 
+
 ![Chart, bar chart Description automatically
-generated](media/image15.png){width="6.192340332458443in"
-height="3.6336636045494313in"}
+generated](media/image5.png)
 
 Figure 5: Top 20 movie directors
 
@@ -243,9 +245,9 @@ the scores. We have scores between 0 -100 with brackets as shown below:
 
 -   80 -- 100 \-- good
 
+
 ![Chart, bar chart Description automatically
-generated](media/image5.png){width="6.5in"
-height="3.4381944444444446in"}
+generated](media/image6.png)
 
 Figure 6: Audience Score and Critic Score
 
@@ -301,9 +303,7 @@ years between the years 2010-2020 with most of them lasting for 120
 minutes. The movies with runtime between 90-120 are most common in all
 the release year brackets from 1920-2020
 
-![Chart, bar chart Description automatically
-generated](media/image6.png){width="5.049505686789152in"
-height="4.737145669291339in"}
+
 
 Fig 7: Runtimes over release years
 
