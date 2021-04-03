@@ -170,8 +170,7 @@ following questions:
 -   Runtime trend over Release years
 
 ![Chart, pie chart Description automatically
-generated](media/image2.png){width="3.0297025371828523in"
-height="2.3758781714785653in"}
+generated](media/image2.png)
 
 Movies are given ratings by audiences and
 
@@ -304,6 +303,8 @@ minutes. The movies with runtime between 90-120 are most common in all
 the release year brackets from 1920-2020
 
 
+![Diagram Description automatically
+generated](media/image7.png)
 
 Fig 7: Runtimes over release years
 
@@ -317,13 +318,13 @@ recommends items based on the **similarity **between the content. To
 find the similarity between the items we can use either Euclidean or
 Cosine Similarity.
 
-![Diagram Description automatically
-generated](media/image7.png){width="3.1250021872265967in"
-height="2.0in"}
 
 While cosine looks at the angle between vectors (thus not taking into
 regard their weight or magnitude), Euclidean distance is like using a
 ruler to measure the distance.
+
+![Table Description automatically
+generated](media/image8.png)
 
 Figure 8: Euclidean and Cosine Similarity
 
@@ -353,9 +354,10 @@ similarity of movie 0 with movie 0 is 1; they are 100% similar. This
 suggests that every movie is similar to itself. The similarity between
 movie 0 and movie 1 is 0.0103, similarity score = 0.0103
 
+
+
 ![Table Description automatically
-generated](media/image8.png){width="4.504950787401575in"
-height="1.664873140857393in"}
+generated](media/image9.png)
 
 Figure 10: Cosine Similarity matrix
 
@@ -366,15 +368,16 @@ user, the input to this is the users' current selected movie. In order
 to extract the recommendations, we add a count to the list of movies and
 similarity scores sorted in descending.
 
-![Table Description automatically
-generated](media/image9.png){width="1.5049496937882765in"
-height="3.0984372265966753in"}
 
 Figure 11 shows sorted list of the movies in the descending order based
 on the similarity score. The user input here is the movie 'mulan' which
 is at index 2. The index 0 shows the similarity of the movie with
 itself, followed by movies 3709, 411 etc. Later, these indexes are
 replaced with the titles.
+
+
+![Text Description automatically
+generated](media/image10.png)
 
 Figure 11: Similarity scores
 
@@ -388,21 +391,14 @@ To test the model, we did few manual explorations by giving various
 movies and inputs. Figure 12 shows the recommendations of the movies
 "the lego movie 2: the second part"," get out" and "Knives out".
 
-![Text Description automatically
-generated](media/image10.png){width="4.719340551181102in"
-height="1.6633661417322834in"}
-
-Figure 12(a): Results 1
-
 The Lego movie second part has movies suggested that very similar to the
 input. All the movies suggested are animated movies, that have genres as
 comedy, fantasy and kids adventure.
 
 ![A picture containing text Description automatically
-generated](media/image11.png){width="3.0368088363954504in"
-height="1.910890201224847in"}![Text Description automatically
-generated](media/image12.png){width="3.2800929571303588in"
-height="1.9208464566929133in"}
+generated](media/image11.png)
+![Text Description automatically
+generated](media/image12.png)
 
 Figure 12(b & c): Results 2
 
